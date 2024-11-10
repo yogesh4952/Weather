@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/src/weather.html",
+      "permanent": true
+    }
+  ]
+}
